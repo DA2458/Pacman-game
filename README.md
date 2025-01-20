@@ -1,5 +1,7 @@
 # Pacman-game
-My version of Pacman, based on Kenny Yip Coding's video on youtube, that is  made in Java.
+My version of Pacman made in Java, based on Kenny Yip Coding's video on youtube located below.
+[https://www.youtube.com/watch?v=lB_J-VNMVpE&list=PLnKe36F30Y4Y1XQOqNsL9Fgg_p6nYhcng&index=6](url)
+
 
 THINGS TO DO
 -------------
